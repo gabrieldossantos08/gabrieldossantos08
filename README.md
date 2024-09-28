@@ -1,6 +1,6 @@
 ### _*Boas vindas ao meu perfil*_ ♥️
 
-Meu nome é Gabriel do Santos
+Meu nome é Gabriel dos Santos
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou aprendendo a linguagem JavaScript
